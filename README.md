@@ -1,6 +1,6 @@
 # NLP_Project
 
-## Préjugés et discrimination : utilisation d’intelligence artificielle pour développer des politiques publiques contre le racisme, la discrimination 
+## Préjugés et discrimination : utilisation d’intelligence artificielle pour développer  politiques publiques contre le racisme, la discrimination 
  
 ### Problématique : 
 - Comment aider les chercheurs/ décideurs à identifier et à mettre en œuvre de pratiques factuelles contre la discrimination raciale ? 
